@@ -15,7 +15,7 @@ class Bot
 
     public function __construct()
     {
-        $this->token = $_ENV['token'];
+        $this->token = $_ENV['6197351725:AAFEDfWWNpim3JBB_lvve1CPLjrDPeTSkC8'];
         $this->key = $_ENV['sign_key'] ?? 'abc';
     }
 
